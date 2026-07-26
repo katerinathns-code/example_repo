@@ -1,1 +1,1 @@
-# example_repo
+# Example of README.md
